@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='Recording%202026-06-10%20at%2000.01.31.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Recording%202026-06-16%20at%2017.26.08.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
